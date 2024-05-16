@@ -1,1 +1,1 @@
-bruh i did like 17 tutorials after not coding for 4 years and got bored and now im all hyped up again and want to make stuff
+my job finally forced me to code again and im so mad it took so long
