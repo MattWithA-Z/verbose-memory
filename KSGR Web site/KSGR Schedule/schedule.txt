@@ -1,48 +1,46 @@
-00:00  The Early Morning Show  John Doe
-00:30  Healthy Cooking Tips  Sarah Johnson
-01:00  Smooth Jazz Hour  Emily Smith
-01:30  Fitness and Wellness  Mark Davis
-02:00  Cooking Masterclass with Chef Michael  Sarah Johnson
-02:30  Morning Yoga Session  Lisa Thompson
-03:00  World News Update  David Brown
-03:30  Financial Planning Workshop  Matthew Harris
-04:00  Fitness and Wellness Tips  Rachel Martinez
-04:30  Relaxation Techniques  Sophia Lee
-05:00  Morning Motivation  Chris Johnson
-05:30  Inspirational Talks  Jennifer White
-06:00  Travel Adventures with Sarah  Michael Smith
-06:30  Culinary Delights with Chef James  Samantha Moore
-07:00  Healthy Cooking Ideas  Lisa Thompson
-07:30  Nutrition Talk  Eric Wilson
-08:00  Financial News Briefing  Mark Davis
-08:30  Investment Strategies  Jason Williams
-09:00  Tech Talk with Experts  Jennifer White
-09:30  Coding Workshop  Alex Turner
-10:00  Inspirational Stories  Alex Turner
-10:30  Leadership Insights  Julia Lee
-11:00  Music Extravaganza  Emily Clark
-11:30  Songwriting Workshop  Kevin Scott
-12:00  Culinary Delights with Chef James  Samantha Moore
-12:30  Baking Masterclass  Olivia Taylor
-13:00  Lifestyle and Fashion Trends  Jason Williams
-13:30  Makeup Tutorial  Sophia Garcia
-14:00  Science Hour with Dr. Smith  Olivia Taylor
-14:30  Nature Exploration  Andrew Brown
-15:00  Afternoon Energy Boost  Matthew Harris
-15:30  Relaxation Music  Laura Johnson
-16:00  Outdoor Adventure Series  Jessica Allen
-16:30  Survival Skills  Robert Turner
-17:00  Home Improvement Ideas  Andrew Brown
-17:30  DIY Projects  Julia Lee
-18:00  Evening Relaxation Yoga  Julia Lee
-18:30  Meditation Techniques  Robert Turner
-19:00  Health and Nutrition Talk  Eric Wilson
-19:30  Cooking Demo  David Brown
-20:00  Movie Reviews and Discussions  Sophia Garcia
-20:30  Film Analysis  Kevin Scott
-21:00  Mystery Thriller Hour  Kevin Scott
-21:30  Crime Solving Seminar  Olivia Taylor
-22:00  Late Night Comedy Show  Laura Johnson
-22:30  Stand-up Special  Chris Johnson
-23:00  Deep Sleep Meditation  Robert Turner
-23:30  Bedtime Stories  Jennifer White
+12:00  Boldy Speaking  Rod Dozler
+12:30  According to the Scriptures  Dian Kyle
+01:00  Shelter from the Storm  Rod Carver
+01:30  Living Fountains  Jim Stewart
+02:00  The Dwelling Place  Al Pittman
+02:30  A Daily Walk  John Randall
+03:00  Hope from the Word  Bill Luebkemann
+03:30  Real Radio  Jack Hibbs
+04:00  Study the Word  Thom Keller
+04:30  Larger than Life  Ron Hindt
+05:00  Somebody Loves You  Raul Ries 
+05:30  On the Level  Pancho Juarez
+06:00  Back to Basics  Brian Broderson
+06:30  Shelter from the Storm  Rod Carver
+07:00  Living the Christ Life  Don Leavell
+07:30  Truth for Life  Alister Begg
+08:00  Searchlight  Jon Courson
+08:30  Thru the Bible  J. Vernon McGee
+09:00  Strengthened by Grace  Abe Moreno
+09:30  Fily Life Today  Dave & Ann Wilson
+10:00  Enduring Word  David Guzik
+10:30  Love Worth Finding  Adrian Rogers
+11:00  Anchor of Hope  Ian Caceres
+11:30  The Word Made Plain  Tony Clark
+12:00  On the Level  Pancho Juarez
+12:30  Truth for a Change  Robert Bigouette
+13:00  The Word for Today  Chuck Smith
+13:30  Bridging the Gap  Lloyd Pulley
+14:00  Living Fountains  Jim Stewart
+14:30  Revival Radio  John Miller
+15:00  WallBuilders Radio  David Barton
+15:30  Jesus Is Real  Daniel Fusco
+16:00  Shelter from the Storm  Rod Carver
+16:30  Strengthened by Grace  Abe Moreno
+17:00  Calvary Live  Ed Taylor
+18:00  Theology & Apologetics  Thomas Fretwell
+19:00  Straight from the Heart  Joe Focht
+19:30  A new Beginning  Greg Laurie
+20:00  Abounding in Grace  Ed Taylor
+20:30  Sound Truth  Malcom Wild
+21:00  The Balanced Word  Dave Rolph
+21:30  Chapter & Verse  Mike McIntosh
+22:00  The Word Made Plain  Tony Clark
+22:30  Changed by Love  Jim Keavney
+23:00  Sandy Ads Radio  Sandy Ads
+23:30  Somebody Loves You  Raul Ruiz
